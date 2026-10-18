@@ -1,0 +1,11 @@
+{
+    "owner": {
+        "username": "OshekharO",
+        "email": "omeepd009@gmail.com"
+    },
+    "domain": "indexer",
+    "records": {
+        "CNAME": "oshekharo.github.io"
+    },
+    "proxied": false
+}
