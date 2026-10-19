@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "sirfazrien"
+  },
+  "domain": "_openai-site-verification.ubktamuri",
+  "records": {
+    "TXT": [
+      "openai-site-verification=m8N6bi4cNn2bAmhDBYM6FUygwEeAwaqtiUunF1B1tC8"
+    ]
+  },
+  "proxied": false
+}
