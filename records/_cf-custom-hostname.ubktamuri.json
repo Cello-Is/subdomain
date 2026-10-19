@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "sirfazrien"
+  },
+  "domain": "_cf-custom-hostname.ubktamuri",
+  "records": {
+    "TXT": [
+      "37f505e4-ce9c-4cbe-a09c-a726753f7f7a"
+    ]
+  },
+  "proxied": false
+}
